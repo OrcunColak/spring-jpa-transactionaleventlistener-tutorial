@@ -1,8 +1,8 @@
-package com.colak.springjpatransactionaleventlistenertutorial.eventlistener;
+package com.colak.springjpatutorial.eventlistener;
 
-import com.colak.springjpatransactionaleventlistenertutorial.jpa.Person;
-import com.colak.springjpatransactionaleventlistenertutorial.repository.PersonRepository;
-import com.colak.springjpatransactionaleventlistenertutorial.service.PersonCreated;
+import com.colak.springjpatutorial.jpa.Person;
+import com.colak.springjpatutorial.repository.PersonRepository;
+import com.colak.springjpatutorial.service.PersonCreated;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

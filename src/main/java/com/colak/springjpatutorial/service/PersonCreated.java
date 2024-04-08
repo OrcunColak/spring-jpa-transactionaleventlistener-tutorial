@@ -1,4 +1,4 @@
-package com.colak.springjpatransactionaleventlistenertutorial.service;
+package com.colak.springjpatutorial.service;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
